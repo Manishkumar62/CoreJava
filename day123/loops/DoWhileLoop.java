@@ -1,4 +1,4 @@
-package com.day123;
+package com.day123.loops;
 
 public class DoWhileLoop {
 

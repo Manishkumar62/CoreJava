@@ -1,4 +1,4 @@
-package com.day7.thisKeyword;
+package com.day7_InstanceOfStaticThis.thisKeyword;
 
 //3. this can be pass as an argument in the method call
 class C

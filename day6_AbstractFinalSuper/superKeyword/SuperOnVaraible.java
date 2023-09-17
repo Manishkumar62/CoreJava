@@ -1,4 +1,4 @@
-package com.day6.superKeyword;
+package com.day6_AbstractFinalSuper.superKeyword;
 
 //Parent class or Super class or Base class
 class Animal

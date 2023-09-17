@@ -1,4 +1,4 @@
-package com.day9.interfaces;
+package com.day9_InterfaceWrapper.interfaces;
 
 //to achieve the abstraction by using abstract method
 //Interface

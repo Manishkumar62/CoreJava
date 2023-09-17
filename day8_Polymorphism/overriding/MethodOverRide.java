@@ -1,4 +1,4 @@
-package com.day8.polymorf.overriding;
+package com.day8_Polymorphism.overriding;
 
 import java.util.Scanner;
 

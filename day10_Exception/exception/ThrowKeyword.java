@@ -1,4 +1,4 @@
-package com.day10.exception;
+package com.day10_Exception.exception;
 
 public class ThrowKeyword {
 	public static void display(int age, int weight) {

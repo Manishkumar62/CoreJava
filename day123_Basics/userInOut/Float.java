@@ -1,4 +1,4 @@
-package com.day123.userInOut;
+package com.day123_Basics.userInOut;
 import java.util.Scanner;
 
 public class Float {

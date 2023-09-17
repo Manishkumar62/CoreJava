@@ -1,4 +1,4 @@
-package com.day7.staticKeyword;
+package com.day7_InstanceOfStaticThis.staticKeyword;
 
 class B
 {

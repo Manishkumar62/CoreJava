@@ -1,4 +1,4 @@
-package com.day123.conditions;
+package com.day123_Basics.conditions;
 
 public class IfDemo {
 

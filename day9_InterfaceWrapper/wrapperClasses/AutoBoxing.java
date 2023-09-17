@@ -1,4 +1,4 @@
-package com.day9.wrapperClasses;
+package com.day9_InterfaceWrapper.wrapperClasses;
 
 public class AutoBoxing {
 

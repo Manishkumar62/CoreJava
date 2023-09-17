@@ -1,4 +1,4 @@
-package com.day4.encapsulation;
+package com.day4_AccessModifierEncapsulationPackages.encapsulation;
 
 public class AccountInternal {
 	private int Account_No;

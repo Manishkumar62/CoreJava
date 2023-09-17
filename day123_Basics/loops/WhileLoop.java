@@ -1,4 +1,4 @@
-package com.day123.loops;
+package com.day123_Basics.loops;
 
 public class WhileLoop {
 

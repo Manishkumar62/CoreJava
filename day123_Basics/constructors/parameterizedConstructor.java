@@ -1,4 +1,4 @@
-package com.day123.constructors;
+package com.day123_Basics.constructors;
 import java.util.Scanner;
 
 class Bike{

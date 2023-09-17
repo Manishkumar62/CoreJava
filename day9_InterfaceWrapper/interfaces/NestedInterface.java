@@ -1,8 +1,8 @@
-package com.day9.interfaces;
+package com.day9_InterfaceWrapper.interfaces;
 
 import java.util.Scanner;
 
-import com.day9.interfaces.interfaceouter;
+import com.day9_InterfaceWrapper.interfaces.interfaceouter;
 //program on nested interface
 interface interfaceouter
 {
@@ -15,7 +15,7 @@ interface interfaceouter
 	}
 	
 }
-class ImplementableClass implements com.day9.interfaces.interfaceouter.InnerInterface
+class ImplementableClass implements com.day9_InterfaceWrapper.interfaces.interfaceouter.InnerInterface
 {
 
 	@Override

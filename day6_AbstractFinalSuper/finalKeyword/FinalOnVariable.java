@@ -1,4 +1,4 @@
-package com.day6.finalKeyword;
+package com.day6_AbstractFinalSuper.finalKeyword;
 
 class FinalVariable
 {

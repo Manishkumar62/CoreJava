@@ -1,4 +1,4 @@
-package com.day6.superKeyword;
+package com.day6_AbstractFinalSuper.superKeyword;
 
 //super class
 class Parent

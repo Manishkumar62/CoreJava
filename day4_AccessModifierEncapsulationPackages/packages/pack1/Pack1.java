@@ -1,4 +1,4 @@
-package com.day4.packages.pack1;
+package com.day4_AccessModifierEncapsulationPackages.packages.pack1;
 
 public class Pack1 {
 	public String str;

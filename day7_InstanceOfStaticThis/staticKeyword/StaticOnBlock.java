@@ -1,4 +1,4 @@
-package com.day7.staticKeyword;
+package com.day7_InstanceOfStaticThis.staticKeyword;
 
 public class StaticOnBlock {
 	static int a=10;

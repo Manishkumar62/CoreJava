@@ -1,4 +1,4 @@
-package com.day10.customexception;
+package com.day10_Exception.customexception;
 
 class CustomExp extends Exception{
 	public String str;

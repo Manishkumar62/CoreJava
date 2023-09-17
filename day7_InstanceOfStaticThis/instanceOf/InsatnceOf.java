@@ -1,4 +1,4 @@
-package com.day7.instanceOf;
+package com.day7_InstanceOfStaticThis.instanceOf;
 
 //demo on instance of operator
 class E

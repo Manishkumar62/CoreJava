@@ -1,4 +1,4 @@
-package com.day8.polymorf.overloading;
+package com.day8_Polymorphism.overloading;
 
 //demo on method overloading-by passing the different data types
 class MathematicalOperation

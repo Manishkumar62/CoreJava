@@ -1,7 +1,7 @@
-package com.day4.packages.pack2;
+package com.day4_AccessModifierEncapsulationPackages.packages.pack2;
 import java.util.Scanner;
 
-import com.day4.packages.pack1.*;
+import com.day4_AccessModifierEncapsulationPackages.packages.pack1.*;
 public class Pack2 {
 
 	public static void main(String[] args) {

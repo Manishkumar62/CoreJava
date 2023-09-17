@@ -1,4 +1,4 @@
-package com.day7.thisKeyword;
+package com.day7_InstanceOfStaticThis.thisKeyword;
 
 //4. this keyword is invoking the current class constructor
 class D

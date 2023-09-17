@@ -1,4 +1,4 @@
-package com.day9.interfaces;
+package com.day9_InterfaceWrapper.interfaces;
 
 public class Execute {
 

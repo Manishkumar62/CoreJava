@@ -1,4 +1,4 @@
-package com.day5.bufferReader;
+package com.day5_BufferReaderInheritance.bufferReader;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package com.day5.inheritance;
+package com.day5_BufferReaderInheritance.inheritance;
 
 import java.util.Scanner;
 //parent class

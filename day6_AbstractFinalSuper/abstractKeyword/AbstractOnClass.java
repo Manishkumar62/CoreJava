@@ -1,4 +1,4 @@
-package com.day6.abstractKeyword;
+package com.day6_AbstractFinalSuper.abstractKeyword;
 
 abstract class C
 {

@@ -1,4 +1,4 @@
-package com.day4.accessModifiers;
+package com.day4_AccessModifierEncapsulationPackages.accessModifiers;
 
 class A{
 	//private variable
